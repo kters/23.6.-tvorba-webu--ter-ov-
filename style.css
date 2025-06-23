@@ -1,0 +1,56 @@
+.block {
+    border-radius: 5px;
+    padding: 10px;
+}
+
+
+.block.default {
+    background-color: rgb(1, 150, 170);
+    font-size: 15px;
+        text-align: center;
+        font-family: "Cursive", sans-serif;
+}
+
+.block-best {
+    background-color: rgb(0, 193, 252);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    
+}
+
+
+.block.product {
+    background-color: rgb(23, 228, 255);
+    display: inline-block;
+    margin: 1%;
+    vertical-align: top;
+    border-radius: 10px;
+    width: 350px;
+}
+
+a.detail-button {
+    display: inline-block;
+    background-color: rgba(5, 5, 236, 0.774);
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+
+   
+    .obrazek {
+        max-width: 350px;
+        max-height: 300px;
+        width: auto;
+        height: auto;
+    }
+
+    header {
+        text-align: center;
+        font-size: 25px;
+    }
+   
