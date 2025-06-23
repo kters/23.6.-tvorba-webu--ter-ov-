@@ -28,6 +28,7 @@
     vertical-align: top;
     border-radius: 10px;
     width: 350px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
 }
 
 a.detail-button {
